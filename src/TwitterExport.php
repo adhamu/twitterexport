@@ -14,7 +14,7 @@ class TwitterExport
     public $count = 10;
     public $tweets;
 
-    const CACHE_DURATION = 1;
+    const CACHE_DURATION = 600;
 
     public function __construct()
     {
