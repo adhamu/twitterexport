@@ -1,8 +1,0 @@
-{
-    "name": "adhamu/twitterexport",
-    "autoload": {
-        "psr-0" : {
-            "adhamu\\TwitterExport" : "."
-        }
-    }
-}
