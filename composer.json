@@ -10,7 +10,8 @@
     ],
     "license": "proprietary",
     "require": {
-        "php": ">=5.3.0"
+        "php": ">=5.3.0",
+        "twitterexport/twitterexport": "master"
     }
 
 }
