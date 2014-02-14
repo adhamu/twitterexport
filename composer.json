@@ -1,3 +1,12 @@
 {
-    "name": "twitterexport/twitterexport"
+    "name": "twitterexport/twitterexport",
+    "type": "package",
+    "description": "Twitter Exporter",
+    "authors": [
+      {
+        "name": "Amit Dhamu",
+        "email": "dev@amitd.co"
+      }
+    ],
+    "license": "proprietary"
 }
