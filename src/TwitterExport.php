@@ -1,5 +1,7 @@
 <?php
 
+require __DIR__."/../../abraham/twitteroauth/twitteroauth/twitteroauth.php";
+
 class TwitterExport
 {
 
@@ -12,7 +14,7 @@ class TwitterExport
     public $count = 10;
     public $tweets;
 
-    const CACHE_DURATION = 600;
+    const CACHE_DURATION = 1;
 
     public function __construct()
     {
