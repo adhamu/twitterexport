@@ -8,5 +8,9 @@
         "email": "dev@amitd.co"
       }
     ],
-    "license": "proprietary"
+    "license": "proprietary",
+    "require": {
+        "php": ">=5.3.0"
+    }
+
 }
